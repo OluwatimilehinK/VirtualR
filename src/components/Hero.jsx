@@ -8,7 +8,7 @@ const Hero = () => {
         <h1 className='text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide'>
           VirtualR builds tools <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>for developer  </span> 
         </h1>
-        <p className='text-center mt-10 text-lg text-neutral-500 max-w-4xl' > Empoer your creativity and bring your VR app ideas to life with our intuitive developement tools. Get started today and turn your imagination into immersive reality! </p>
+        <p className='text-center mt-10 text-lg text-neutral-500 max-w-4xl' > Empower your creativity and bring your VR app ideas to life with our intuitive developement tools. Get started today and turn your imagination into immersive reality! </p>
         <div className="flex justify-center my-5 ">
             <a href="#" className='bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md '>Start for free</a>  
             <a href="#" className='py-3 px-4 border rounded-md'>Documentation</a>
